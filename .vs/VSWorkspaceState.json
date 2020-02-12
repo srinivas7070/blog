@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\jobs",
+    "\\jobs\\templates",
+    "\\jobs\\templates\\jobs",
+    "\\posts",
+    "\\posts\\templates",
+    "\\posts\\templates\\posts"
+  ],
+  "SelectedNode": "\\jobs\\templates\\jobs\\home.html",
+  "PreviewInSolutionExplorer": false
+}
